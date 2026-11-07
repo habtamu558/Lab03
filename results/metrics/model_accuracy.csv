@@ -1,0 +1,4 @@
+model,epochs,training_accuracy,test_loss,test_accuracy
+MLP,5,89.93,0.3361,88.12
+CNN,5,90.34,0.2890,89.59
+Attention,5,84.59,0.4874,82.67
